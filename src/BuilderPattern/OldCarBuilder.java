@@ -1,4 +1,4 @@
-package Builder;
+package BuilderPattern;
 
 import java.awt.Robot;
 
